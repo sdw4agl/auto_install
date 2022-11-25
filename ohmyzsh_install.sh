@@ -1,6 +1,6 @@
 #！/bin/bash
 apt update
-apt upgrade
+apt -y upgrade
 apt install -y zsh
 apt install -y tmux
 chsh -s /bin/zsh
