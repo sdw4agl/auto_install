@@ -1,5 +1,5 @@
 #!/bin/bash
-sed -i '11cZSH_THEME="angoster"' ~/.zshrc
+sed -i '11cZSH_THEME="agnoster"' ~/.zshrc
 sed -i '73cplugins=(git extract z)' ~/.zshrc
 cd ~/.oh-my-zsh/plugins/
 mkdir incr
