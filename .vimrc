@@ -1,5 +1,5 @@
 "配置文件位置：/etc/vimrc，可在其后增加以下内容
-“亦可将此文件复制到家目录，程序自动加载配置。
+"亦可将此文件复制到家目录，程序自动加载配置。
 "在ubuntu20.0.4中，方向和退格键不启作用，需要修改/usr/share/vim/vimrc.tiny中的set compatible修改为set nocompatible
 "并增加set backspace=2
 
